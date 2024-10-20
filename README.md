@@ -6,7 +6,7 @@ design to protect our planet can play with friends in one computer
 who touches the score five first will lose.
 
 ## Tools And Assets
-- Made using Unity Editor 2022.3.19f1
+- Made using Unity Editor 2022.3.19f1.
   
 ## Features
 - Use (W) and  (S) keys to control left side racket.
