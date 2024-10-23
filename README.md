@@ -16,6 +16,7 @@ itch.io : https://ranggayupis.itch.io/empire-pong
 
 ## 📋 Project Info
 - Made using Unity Editor 2022.3.19f1.
+
 | Part | Development Time |
 |------------------|------|
 | Map Set | 1/2 Day|
