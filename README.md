@@ -66,8 +66,4 @@ You are required to download some assets from the Unity Asset Store to operate t
 **Download Here:** 
 - Logitech SDK : https://unity.com/releases/editor/whats-new/2022.3.19
 
-## Features
-- Use (W) and  (S) keys to control left side racket.
-- Main Menu (button play & quit).
-- Game Over (button Quit & main menu).
-- Background parralax with particel. 
+
