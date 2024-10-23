@@ -1,3 +1,4 @@
+![Black and Purple Futuristic Outer Space Science Presentation](https://github.com/user-attachments/assets/c3bc38ec-0cfb-4185-979e-79a5e2dea133)
 
 ## 🔴 About
 **PongStarBattleShip** is a **Modifed Arcade Style** game made with **Multiplayer Concept** to add **strategy** and tactical skills to overcome obstacles and enemies in each stage. Players must make decisions about how the character **tactics** to overcome the existing obstacles. In this game, players or users are tasked with exploring the cave, while fighting the existing enemies until they reach the gate to continue the next stage. The diverse and challenging level design can keep players involved. Each stage has a uniqueness that makes exploration more interesting. Has more interesting sound and visual effects when players successfully pass obstacles to provide more satisfaction.
@@ -9,7 +10,7 @@ Checkpoint and Pause System Features. For example, if the player wants to stop f
 ## ▶️ Video Gameplay
 <img src="https://github.com/user-attachments/assets/ef02f34c-c276-4cf7-87c3-e1bbb691d0e8" width="350" height="200">
 
-View Full Gameplay : https://youtu.be/0ZJpfFQ3HeM?si=rkbvegm7qnJEFB-c
+View Full Gameplay : https://www.youtube.com/watch?v=qW9vwlj-Pao
 
 This game uses the classic pong method from top to bottom space 
 design to protect our planet can play with friends in one computer 
