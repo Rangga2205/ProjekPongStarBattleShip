@@ -19,12 +19,12 @@ itch.io : https://ranggayupis.itch.io/empire-pong
 
 | Part | Development Time |
 |------------------|------|
-| Map Set | 1/2 Day|
-| Player |  1/2 Day |
-| URP And Parallax | 1 Day|
-| Mecanic | 1 Day |
-| Design parcticel | 1 Day |
-| UI Menu | 1 Day |
+| Map Set | 30 Minutes|
+| Player |  15 Minutes |
+| URP And Parallax | 15 Minutes|
+| Mecanic | 60 Minutes |
+| Design parcticel | 30 Minutes |
+| UI Menu | 30 Minutes |
 
 ## 📜Scripts and Features
 - Can be playing multiplayer
